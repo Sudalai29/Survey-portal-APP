@@ -1,0 +1,124 @@
+{
+  "survoyer": {
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "admin@123",
+    "role": "admin"
+  },
+  "participants": [
+    {
+      "name": "Balakumar A N",
+      "email": "bala@gmail.com",
+      "password": "ArunB@l@22",
+      "dob": "2001-07-20",
+      "role": "participant",
+      "id": 1
+    },
+    {
+      "name": "Arjun S",
+      "email": "arjun@gmail.com",
+      "password": "arjun@123",
+      "dob": "2000-10-18",
+      "role": "participant",
+      "id": 2
+    },
+    {
+      "name": "swathy",
+      "email": "swa@gmail.com",
+      "password": "Swathy@123",
+      "dob": "2022-07-23",
+      "role": "participant",
+      "id": 3
+    },
+    {
+      "name": "swathy",
+      "email": "swa@gmail.com",
+      "password": "Swathy@123",
+      "dob": "2022-07-23",
+      "role": "participant",
+      "id": 4
+    }
+  ],
+  "survey": [
+    {
+      "questions": [
+        "asw",
+        "aSX",
+        "SADSX"
+      ],
+      "completed": [
+        {
+          "id": 3,
+          "response": [
+            {
+              "question": "asw",
+              "rate": 3
+            },
+            {
+              "question": "aSX",
+              "rate": 3
+            },
+            {
+              "question": "SADSX",
+              "rate": 3
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "questions": [
+        "ss"
+      ],
+      "completed": [],
+      "id": 2
+    },
+    {
+      "questions": [
+        "ww"
+      ],
+      "completed": [],
+      "id": 3
+    },
+    {
+      "questions": [
+        "sss"
+      ],
+      "completed": [],
+      "id": 4
+    },
+    {
+      "questions": [
+        "ss"
+      ],
+      "completed": [],
+      "id": 5
+    },
+    {
+      "questions": [
+        "aa"
+      ],
+      "completed": [],
+      "id": 6
+    },
+    {
+      "topic": "aa",
+      "questions": [
+        "SSF"
+      ],
+      "completed": [
+        {
+          "id": 3,
+          "response": [
+            {
+              "question": "SSF",
+              "rate": 3
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ]
+}

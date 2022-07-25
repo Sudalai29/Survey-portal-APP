@@ -1,0 +1,9 @@
+.navbar {
+  background: #43b97f;
+}
+
+.navbar a {
+  color: #1b4a33;
+  font-size: 20px;
+  font-weight: 900;
+}
